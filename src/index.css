@@ -54,6 +54,7 @@ body {
   max-width: 42rem;
   background-color: var(--color-background-500);
   border-radius: 0.9rem;
+  /* overflow: scroll; */
   position: relative;
 }
 
@@ -137,6 +138,7 @@ body {
 .list {
   list-style: none;
   padding: 0.8rem 0;
+  /* overflow: scroll; */
 }
 
 .list-watched {
@@ -337,9 +339,6 @@ body {
   justify-content: center;
 }
 
-.box .summary div p span {
-  white-space: nowrap;
-}
 /*
 SPACING SYSTEM (px)
 2 / 4 / 8 / 12 / 16 / 24 / 32 / 40 / 48 / 64 / 80 / 96 / 128
