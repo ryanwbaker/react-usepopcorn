@@ -1,3 +1,8 @@
+# Before Using This Project
+
+-  Navigate to the [OMDb API](https://www.omdbapi.com/) page and request an API key.
+-  Rename `src/openApiKey copy.js` to `src\openApiKey.js` and replace the template string with your API key.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
